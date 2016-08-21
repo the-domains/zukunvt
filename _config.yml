@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  url: www.zukunvt.com
+  email: vm@zukunvt.com
+  name: Viktor it its
 name: zukunvt
 cta:
   domain: null
@@ -29,4 +33,5 @@ navigation:
     url: viktormatic.com
     type: external
 favicon: null
+title: the place to be
 purpose: []
