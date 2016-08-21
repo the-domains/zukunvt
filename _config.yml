@@ -1,19 +1,4 @@
-name: zukunvt
-favicon: null
-layout_spectrum: 0.22322780801914632
 typography_spectrum: 0.08218616852536798
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,23 @@ color:
   lightness: 0.6600155713967979
   saturation: 0.47206643084064126
   rhythmicContrast: 0.15755240619182587
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.22322780801914632
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: zukunvt
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'viktor '
+    url: viktormatic.com
+    type: external
+favicon: null
 purpose: []
